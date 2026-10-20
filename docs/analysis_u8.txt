@@ -1,0 +1,198 @@
+===== 1. DECK-WIDE FONT DISTRIBUTION (sz:count) =====
+  800pt: 4
+  850pt: 4
+  900pt: 5
+  950pt: 4
+  1000pt: 19
+  1050pt: 4
+  1100pt: 35
+  1200pt: 2
+  1250pt: 13
+  1300pt: 9
+  1400pt: 8
+  1600pt: 146
+  1800pt: 180
+  2000pt: 179
+  2200pt: 1
+  2400pt: 112
+  2500pt: 1
+  2700pt: 1
+  2800pt: 27
+  2900pt: 4
+  3200pt: 17
+  3600pt: 27
+  4000pt: 10
+  4400pt: 3
+  6000pt: 1
+
+===== 2. PART 5 (20-23) SHAPE ROLES =====
+
+--- slide20.xml ---
+  sz=2400 box=9.31x0.74in @0.40,0.80 len=47 :: IKEA vs. MUJI: Supply Chain Strategy Comparison
+  sz=4000 box=7.59x0.77in @0.40,1.20 len=25 :: Efficiency vs Flexibility
+  sz=2000 box=7.61x1.01in @0.75,6.35 len=110 :: Insight锛欱oth companies compete in the same market, but with fundamentally different supply
+  sz=2400 box=6.27x0.40in @0.43,0.17 len=36 :: 05 /Supply Chain Strategy Comparison
+
+--- slide21.xml ---
+  sz=1800/2400/2000 box=5.80x4.60in @0.57,0.85 len=208 :: IKEA 鈥?Push Strategy | Forecast Demand 鈫?Mass Production 鈫?Warehousing 鈫?Customers |  | Ad
+  sz=1800/2400/2000 box=5.80x4.60in @6.97,0.85 len=221 :: MUJI 鈥?Push-Pull Hybrid | Basic Inventory 鈫?Demand Monitoring 鈫?Replenishment 鈫?Customers 
+  sz=1800 box=11.00x0.80in @1.17,5.85 len=106 :: Key Finding: IKEA sacrifices flexibility for efficiency, while MUJI sacrifices efficiency 
+  sz=2400 box=5.53x0.40in @0.43,0.17 len=34 :: 05 /Push vs Pull Strategy Analysis
+
+--- slide22.xml ---
+  sz=1800 box=12.50x0.71in @0.47,0.63 len=136 :: Executive Summary: IKEA leads in cost efficiency, while MUJI outperforms in flexibility, r
+  sz=1800/2000 box=6.24x2.12in @7.59,1.23 len=123 :: 馃弳 Winner Scorecard | Cost Efficiency        | Flexibility                 | Responsivenes
+  sz=1800 box=12.19x1.01in @0.67,6.33 len=150 :: Key Takeaway:  | Future supply chain success depends on balancing efficiency, flexibility,
+  sz=2000 box=1.67x2.09in @9.95,1.63 len=34 :: 馃煢IKEA | 馃煫MUJI | 馃煫MUJI | 馃煫MUJI | 馃煫MUJI
+  sz=1800 box=2.30x1.31in @6.86,4.33 len=43 :: IKEA | 鈥?Scale | 鈥?Efficiency | 鈥?Global Sourcing
+  sz=1800 box=2.65x1.31in @10.05,4.27 len=55 :: MUJI | 鈥?Flexibility | 鈥?Sustainability | 鈥?Demand-Driven SCM
+  sz=2000 box=2.83x0.44in @8.54,3.58 len=19 :: Strategic Strengths
+  sz=2400 box=4.33x0.40in @0.43,0.17 len=25 :: 05 / Who performs better?
+
+--- slide23.xml ---
+  sz=1800/2000 box=4.00x3.38in @0.32,1.12 len=123 :: Finding 1 |  | IKEA's scale creates superior cost efficiency. |  | 鈥?Global sourcing | 鈥?S
+  sz=1800/2000 box=4.00x3.38in @4.67,1.12 len=143 :: Finding 2 |  | MUJI's lean supply chain enables faster market response. |  | 鈥?Demand-driv
+  sz=1800/2000 box=4.00x3.38in @9.02,1.12 len=114 :: Finding 3 |  | Neither model is perfect. |  | Future competitiveness requires: | 鉁?Efficie
+  sz=1800/2400/2000 box=12.00x2.17in @0.52,4.75 len=190 :: Key Takeaway |  | The future of supply chain management is not about choosing between effi
+  sz=2400 box=7.11x0.40in @0.43,0.17 len=42 :: 05 /Key Findings & Managerial Implications
+
+
+===== 3. PART 6 (24-28) SHAPES =====
+
+--- slide24.xml ---
+  sz=1100 box=9.50x0.30in @0.50,0.16 len=30
+      "06 / CHALLENGES IDENTIFICATION"
+  sz=2900 box=12.33x0.60in @0.50,0.72 len=44
+      "Four Key Supply Chain Challenges Facing IKEA"
+  sz=1300 box=12.33x0.55in @0.50,1.32 len=119
+      "Structural bottlenecks behind the 5-dimension radar gaps in Flexibility, Responsiveness, Resilience, and Sustainability"
+  sz=1300 box=5.10x0.30in @1.18,2.13 len=37
+      "01 / E-Commerce Last-Mile Bottlenecks"
+  sz=1000 box=5.60x1.20in @0.74,2.57 len=235
+      "鈻?Model Mismatch: Suburban stores are built for full-pallet replenishment and DIY pickup, not single-item parcel picking. 鈴?鈻?High Delivery Cost: Bulky home delivery drives high logistics cost and slow delivery windows for online orders."
+  sz=1300 box=5.10x0.30in @7.43,2.13 len=33
+      "02 / Long-Haul Maritime Fragility"
+  sz=1000 box=5.60x1.20in @6.99,2.57 len=250
+      "鈻?Heavy Ocean Reliance: Production concentrates in distant hubs (Poland builds ~20% of wooden furniture), stretching supply lines. 鈴?鈻?Disruption Risk: The Red Sea Crisis extended Asia-Europe voyages by 10-14 days, causing freight spikes and stockouts."
+  sz=1300 box=5.10x0.30in @1.18,4.33 len=35
+      "03 / Upstream Push Model Rigidities"
+  sz=1000 box=5.60x1.20in @0.74,4.77 len=216
+      "鈻?Push-Pull Disconnect: Stores use POS x AI pull replenishment, but factories still run on long-term demand forecasts. 鈴?鈻?Slow Market Response: Long production lead times raise overstock and stockout risk versus MUJI."
+  sz=1300 box=5.10x0.30in @7.43,4.33 len=41
+      "04 / Tier-2/3 Blindspots & Cost Inflation"
+  sz=1000 box=5.60x1.20in @6.99,4.77 len=206
+      "鈻?Audit Complexity: Managing 1,000+ Tier-1 suppliers makes Tier-2/3 timber origin tracking costly under EU rules. 鈴?鈻?Margin Squeeze: Rising timber, metal and fuel prices pressure IKEA's low-price commitment."
+  sz=900 box=1.50x0.30in @0.75,6.68 len=13
+      "CORE TAKEAWAY"
+  sz=1100 box=10.40x0.50in @2.15,6.66 len=132
+      "Relying solely on suburban DIY pickup and long-term Push production can no longer support omnichannel growth and global disruptions."
+
+--- slide25.xml ---
+  sz=1100 box=9.50x0.30in @0.50,0.16 len=39
+      "06 / STRATEGIC RECOMMENDATIONS (PART 1)"
+  sz=2900 box=12.33x0.60in @0.50,0.72 len=54
+      "Upgrading Omnichannel Fulfillment & Supply Flexibility"
+  sz=1300 box=12.33x0.55in @0.50,1.32 len=72
+      "Addressing last-mile delivery bottlenecks and rigid upstream forecasting"
+  sz=1400 box=5.20x0.30in @1.18,2.12 len=36
+      "01 / Urban Micro-Fulfillment Network"
+  sz=1100 box=5.60x0.30in @0.74,2.55 len=61
+      "[City Planning Studio]  鉃? [Urban MFC]  鉃? [EV Home Delivery]"
+  sz=1100 box=5.60x1.20in @0.74,2.92 len=233
+      "鈻?Automated Parcel Picking: Deploy urban Micro-Fulfillment Centers (MFCs) to handle fast-moving online orders closer to customers. 鈴?鈻?Expected Impact: Shortens delivery windows to 24-48 hours and cuts last-mile logistics cost by 15%+."
+  sz=1400 box=5.20x0.30in @7.43,2.12 len=36
+      "02 / Hybrid Push-Pull & Postponement"
+  sz=1100 box=5.60x1.20in @6.99,2.60 len=373
+      "鈻?Upstream Mass Push: Maintain large-scale production for standardized components (e.g. LACK and KALLAX shared fittings) to lock in low unit cost. 鈴?鈻?Downstream Agile Pull: Delay final surface finishes, colours and fabric covers until real-time POS x AI demand signals arrive. 鈴?鈻?Expected Impact: Achieves MUJI-like responsiveness while avoiding small-batch production costs."
+  sz=900 box=1.50x0.30in @0.75,6.68 len=13
+      "CORE TAKEAWAY"
+  sz=1100 box=10.40x0.50in @2.15,6.66 len=119
+      "Combining urban micro-warehouses with modular postponement bridges the gap between scale efficiency and agile response."
+
+--- slide26.xml ---
+  sz=1100 box=9.50x0.30in @0.50,0.16 len=39
+      "06 / STRATEGIC RECOMMENDATIONS (PART 2)"
+  sz=2900 box=12.33x0.60in @0.50,0.72 len=54
+      "Building Supply Chain Resilience & Circular Compliance"
+  sz=1300 box=12.33x0.55in @0.50,1.32 len=81
+      "Hedging against ocean shipping disruptions, raw material inflation, and ESG risks"
+  sz=1400 box=5.20x0.30in @1.18,2.12 len=32
+      "03 / Dual-Sourcing & Nearshoring"
+  sz=1100 box=5.60x1.20in @0.74,2.60 len=351
+      "鈻?70% Global Base Hubs: Keep high-volume, stable products in major hubs (e.g. Poland and Asia) to preserve scale cost advantages. 鈴?鈻?30% Nearshore Buffer: Expand regional capacity near North America and Europe for seasonal and fast-moving items. 鈴?鈻?Expected Impact: Cuts replenishment lead times by 30% and buffers against Red Sea-style shipping crises."
+  sz=1400 box=5.20x0.30in @7.43,2.12 len=44
+      "04 / Circular Buy-Back & Multi-Tier Tracking"
+  sz=1100 box=5.60x1.20in @6.99,2.60 len=374
+      "鈻?Scale Circular Loops: Expand store Buy Back & Resell programmes to recover used furniture and reprocess timber, reducing virgin wood reliance. 鈴?鈻?Tier-2/3 Digital Traceability: Apply digital tracking across sub-suppliers to verify 100% FSC timber compliance under EU regulations. 鈴?鈻?Expected Impact: Hedges raw material inflation while eliminating ESG compliance blindspots."
+  sz=900 box=1.50x0.30in @0.75,6.68 len=13
+      "CORE TAKEAWAY"
+  sz=1100 box=10.40x0.50in @2.15,6.66 len=122
+      "Dual-track sourcing secures supply continuity, while circular recovery turns ESG compliance into a cost-hedging advantage."
+
+--- slide27.xml ---
+  sz=1100 box=9.50x0.30in @0.50,0.16 len=27
+      "06 / IMPLEMENTATION ROADMAP"
+  sz=2900 box=12.33x0.60in @0.50,0.72 len=49
+      "Phased Implementation Roadmap & Radar Gap Closure"
+  sz=1300 box=12.33x0.55in @0.50,1.32 len=68
+      "How the four recommendations close the performance gaps against MUJI"
+  sz=1100 box=2.90x0.28in @0.72,2.00 len=16
+      "Responsiveness 鈫?
+  sz=950 box=2.90x0.40in @0.72,2.30 len=22
+      "Urban MFCs + EV fleets"
+  sz=1100 box=2.90x0.28in @3.78,2.00 len=13
+      "Flexibility 鈫?
+  sz=950 box=2.90x0.40in @3.78,2.30 len=22
+      "Push-Pull postponement"
+  sz=1100 box=2.90x0.28in @6.84,2.00 len=12
+      "Resilience 鈫?
+  sz=950 box=2.90x0.40in @6.84,2.30 len=19
+      "70/30 dual-sourcing"
+  sz=1100 box=2.90x0.28in @9.90,2.00 len=16
+      "Sustainability 鈫?
+  sz=950 box=2.90x0.40in @9.90,2.30 len=28
+      "Buy-back + Tier-2/3 tracking"
+  sz=1250 box=3.50x0.30in @0.72,3.42 len=28
+      "Phase 1  Short-Term (Year 1)"
+  sz=1050 box=3.50x0.30in @0.72,3.74 len=25
+      "Quick Wins in Fulfillment"
+  sz=1000 box=3.50x1.30in @0.72,4.08 len=104
+      "Pilot urban MFCs and EV delivery fleets in major metro areas; unify store POS and online inventory data."
+  sz=1250 box=3.50x0.30in @4.85,3.42 len=29
+      "Phase 2  Mid-Term (Years 1-3)"
+  sz=1050 box=3.50x0.30in @4.85,3.74 len=18
+      "Structural Agility"
+  sz=1000 box=3.50x1.30in @4.85,4.08 len=118
+      "Roll out modular postponement for seasonal lines; establish 30% nearshore backup capacity in Europe and North America."
+  sz=1250 box=3.50x0.30in @8.98,3.42 len=30
+      "Phase 3  Long-Term (Years 3-5)"
+  sz=1050 box=3.50x0.30in @8.98,3.74 len=21
+      "Closed-Loop Ecosystem"
+  sz=1000 box=3.50x1.30in @8.98,4.08 len=108
+      "Scale furniture buy-back and timber recycling; achieve 100% digital traceability down to Tier-2/3 suppliers."
+
+--- slide28.xml ---
+  sz=1100 box=9.50x0.30in @0.50,0.16 len=25
+      "06 / CONCLUSION & SUMMARY"
+  sz=2500 box=12.33x0.90in @0.50,0.72 len=66
+      "Research Conclusion: Balancing Efficiency, Agility, and Resilience"
+  sz=1300 box=12.33x0.55in @0.50,1.66 len=72
+      "Key takeaways from IKEA's supply chain model and competitor benchmarking"
+  sz=900 box=5.25x4.60in @0.50,2.00 len=0
+      ""
+  sz=2200 box=6.70x0.50in @6.10,2.20 len=13
+      "Core Takeaway"
+  sz=1250 box=6.70x3.90in @6.10,2.90 len=294
+      "IKEA's enduring success lies in integrating supply chain strategy directly into product design and retail execution. Flat-pack design and global sourcing keep the cost base low, while urban MFCs, postponement and 70/30 dual-sourcing close the gaps in responsiveness, flexibility and resilience."
+  sz=1250 box=6.70x1.60in @6.10,4.90 len=174
+      "Facing e-commerce shifts, ocean disruptions and ESG scrutiny, IKEA must retain its low-cost core while moving from a rigid Push model to a resilient, demand-driven ecosystem."
+
+===== 4. IMAGES / PICTURES IN PART 6 =====
+  slide24: pics=0 graphicFrames=0 mediaRefs=none
+  slide25: pics=2 graphicFrames=0 mediaRefs=../media/image47.png,../media/image46.png
+  slide26: pics=2 graphicFrames=0 mediaRefs=../media/image49.png,../media/image48.png
+  slide27: pics=1 graphicFrames=0 mediaRefs=../media/image50.png
+  slide28: pics=1 graphicFrames=0 mediaRefs=../media/image51.jpg
+  slide29: pics=1 graphicFrames=0 mediaRefs=../media/image52.jpg
+
+  media dir files: image1.jpeg, image10.jpeg, image11.png, image12.jpeg, image13.jpeg, image14.png, image15.png, image16.png, image17.jpeg, image18.png, image19.png, image2.jpeg, image20.png, image21.png, image22.png, image23.png, image24.png, image25.jpeg, image26.jpeg, image27.png, image28.png, image29.png, image3.jpeg, image30.png, image31.png, image32.png, image33.png, image34.png, image35.jpeg, image36.jpeg, image37.png, image38.jpeg, image39.jpeg, image4.png, image40.jpeg, image41.jpeg, image42.png, image43.png, image44.jpeg, image45.png, image46.png, image47.png, image48.png, image49.png, image5.png, image50.png, image51.jpg, image52.jpg, image6.png, image7.png, image8.png, image9.png
