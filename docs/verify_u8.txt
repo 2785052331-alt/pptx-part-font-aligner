@@ -1,0 +1,65 @@
+
+===== slide24.xml =====
+  sz=2400 h=0.30in len=30 :: 06 / CHALLENGES IDENTIFICATION
+  sz=2900 h=0.60in len=32 :: Four Key Supply Chain Challenges
+  sz=1600 h=0.55in len=106 :: Structural bottlenecks behind the radar gaps in Flexibility, Responsiv
+  sz=2000 h=0.30in len=37 :: 01 / E-Commerce Last-Mile Bottlenecks
+  sz=1800 h=?in len=192 :: 鈻?Model Mismatch: Suburban stores are built for full-pallet replenishm
+  sz=2000 h=0.30in len=33 :: 02 / Long-Haul Maritime Fragility
+  sz=1800 h=?in len=171 :: 鈻?Heavy Ocean Reliance: Production concentrates in distant hubs, stret
+  sz=2000 h=0.30in len=35 :: 03 / Upstream Push Model Rigidities
+  sz=1800 h=?in len=177 :: 鈻?Push-Pull Disconnect: Stores use POS 脳 AI pull, but factories still 
+  sz=2000 h=0.30in len=41 :: 04 / Tier-2/3 Blindspots & Cost Inflation
+  sz=1800 h=?in len=173 :: 鈻?Audit Complexity: Tracking Tier-2/3 timber origin across 1,000+ supp
+  sz=1400 h=0.30in len=13 :: CORE TAKEAWAY
+  sz=1800 h=0.50in len=91 :: Suburban DIY pickup and long-term Push production can no longer suppor
+
+===== slide25.xml =====
+  sz=2400 h=0.30in len=39 :: 06 / STRATEGIC RECOMMENDATIONS (PART 1)
+  sz=2900 h=0.60in len=54 :: Upgrading Omnichannel Fulfillment & Supply Flexibility
+  sz=1600 h=0.55in len=72 :: Addressing last-mile delivery bottlenecks and rigid upstream forecasti
+  sz=2000 h=0.30in len=36 :: 01 / Urban Micro-Fulfillment Network
+  sz=1800 h=0.30in len=61 :: [City Planning Studio] 鉃?[Urban MFC] 鉃?[EV Home Delivery]
+  sz=1800 h=?in len=186 :: 鈻?Automated Parcel Picking: Deploy urban MFCs to handle fast-moving on
+  sz=2000 h=0.30in len=36 :: 02 / Hybrid Push-Pull & Postponement
+  sz=1800 h=?in len=272 :: 鈻?Upstream Mass Push: Keep scale production for standardized component
+  sz=1400 h=0.30in len=13 :: CORE TAKEAWAY
+  sz=1800 h=0.50in len=92 :: Urban micro-warehouses plus modular postponement bridge scale efficien
+
+===== slide26.xml =====
+  sz=2400 h=0.30in len=39 :: 06 / STRATEGIC RECOMMENDATIONS (PART 2)
+  sz=2900 h=0.60in len=54 :: Building Supply Chain Resilience & Circular Compliance
+  sz=1600 h=0.55in len=81 :: Hedging against ocean shipping disruptions, raw material inflation, an
+  sz=2000 h=0.30in len=32 :: 03 / Dual-Sourcing & Nearshoring
+  sz=1800 h=?in len=270 :: 鈻?70% Global Base Hubs: Keep stable products in major hubs (Poland, As
+  sz=2000 h=0.30in len=44 :: 04 / Circular Buy-Back & Multi-Tier Tracking
+  sz=1800 h=?in len=266 :: 鈻?Scale Circular Loops: Expand Buy Back & Resell to recover furniture 
+  sz=1400 h=0.30in len=13 :: CORE TAKEAWAY
+  sz=1800 h=0.50in len=86 :: Dual-track sourcing secures continuity; circular recovery turns ESG in
+
+===== slide27.xml =====
+  sz=2400 h=0.30in len=27 :: 06 / IMPLEMENTATION ROADMAP
+  sz=2900 h=0.60in len=49 :: Phased Implementation Roadmap & Radar Gap Closure
+  sz=1600 h=0.55in len=68 :: How the four recommendations close the performance gaps against MUJI
+  sz=2000 h=0.28in len=16 :: Responsiveness 鈫?  sz=1800 h=0.40in len=22 :: Urban MFCs + EV fleets
+  sz=2000 h=0.28in len=13 :: Flexibility 鈫?  sz=1800 h=0.40in len=22 :: Push-Pull postponement
+  sz=2000 h=0.28in len=12 :: Resilience 鈫?  sz=1800 h=0.40in len=19 :: 70/30 dual-sourcing
+  sz=2000 h=0.28in len=16 :: Sustainability 鈫?  sz=1800 h=0.40in len=28 :: Buy-back + Tier-2/3 tracking
+  sz=2000 h=0.30in len=28 :: Phase 1 Short-Term (Year 1)
+  sz=1800 h=0.30in len=25 :: Quick Wins in Fulfillment
+  sz=1800 h=?in len=85 :: Pilot urban MFCs and EV fleets in major metros; unify store POS and on
+  sz=2000 h=0.30in len=29 :: Phase 2 Mid-Term (Years 1-3)
+  sz=1800 h=0.30in len=18 :: Structural Agility
+  sz=1800 h=?in len=86 :: Roll out modular postponement for seasonal lines; build 30% nearshore 
+  sz=2000 h=0.30in len=30 :: Phase 3 Long-Term (Years 3-5)
+  sz=1800 h=0.30in len=21 :: Closed-Loop Ecosystem
+  sz=1800 h=1.60in len=78 :: Scale buy-back and timber recycling; reach 100% traceability down to T
+
+===== slide28.xml =====
+  sz=2400 h=0.30in len=25 :: 06 / CONCLUSION & SUMMARY
+  sz=2500 h=0.90in len=56 :: Conclusion: Balancing Efficiency, Agility and Resilience
+  sz=1600 h=0.55in len=72 :: Key takeaways from IKEA's supply chain model and competitor benchmarki
+  sz=900 h=4.60in len=0 :: 
+  sz=2200 h=0.50in len=13 :: Core Takeaway
+  sz=1800 h=3.90in len=294 :: IKEA's enduring success lies in integrating supply chain strategy dire
+  sz=1800 h=1.60in len=174 :: Facing e-commerce shifts, ocean disruptions and ESG scrutiny, IKEA mus
