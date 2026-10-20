@@ -1,0 +1,46 @@
+===== image46.png =====
+[106,233,602,315] City PIanning
+[179,341,534,435] Studio
+[108,483,604,551] Demand sensing
+[854,293,1351,368] Urban MFC
+[852,486,1352,549] Fast-moving SKUs
+[1601,231,2093,317] EV Home
+[1622,326,2076,449] DeIivery
+[1596,489,2096,545] 24 一 48h window
+[180,820,2022,890] CIoser to the customer ． 《 owe r last-mile cost
+===== image47.png =====
+[141,133,589,234] P U S H
+[101,323,630,377] Standard components
+[103,427,628,477] (LAC K / KALLAX fittings)
+[839,237,1367,313] Postponement
+[943,315,1264,450] point
+[840,486,1363,560] Delay final finish
+[1632,134,2047,233] P U L L
+[1574,328,2097,372] Finish · colour · fabric
+[189,810,2014,900] Same scale cost + MUJl-Iike responsiveness
+===== image48.png =====
+[365,138,737,283] 70 ％
+[201,322,906,422] GI bal hubs
+[214,509,893,585] Scale cost base
+[1462,138,1834,283] 30 ％
+[1348,322,1954,422] Nearshore
+[1264,489,2038,574] DIsru tlön er
+[184,797,2022,912] ScaIe cost base + disruption buffer
+===== image49.png =====
+[183,304,389,398] Use
+[649,306,1014,395] Buy Back
+[1211,301,1535,401] ReseII
+[1739,318,2097,384] Refurbish
+[178,835,2018,916] Timber recove red · virgin wood dependency down
+===== image50.png =====
+[304,35,578,100] Phase 1
+[336,112,535,171] Year 1
+[402,210,483,291] 0
+[125,354,765,438] Urban MFC pilot
+[1156,35,1445,100] Phase 2
+[1138,112,1457,171] Yea rs 1 一 3
+[1260,212,1340,291] 0
+[1006,363,1597,428] Nearshore 30 ％
+[2014,36,2303,100] Phase 3
+[1996,112,2315,171] Yea rs 3 一 5
+[1928,353,2388,437] CIosed 《 00p
