@@ -1,0 +1,7 @@
+Content_Types length: 24135
+PROBLEMS:
+  Content_Types missing Default for .xml
+  Content_Types missing Default for .rels
+  Content_Types missing Default for .png
+  Content_Types missing Default for .jpeg
+  Content_Types missing Default for .jpg
