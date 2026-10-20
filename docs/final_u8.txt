@@ -1,0 +1,4 @@
+XML INTEGRITY OK across 29 slides
+PART6 sizes: {"900":1,"1400":3,"1600":5,"1800":62,"2000":15,"2200":1,"2400":5,"2500":1,"2900":4}
+PART5 sizes: {"1800":103,"2000":98,"2400":24,"4000":6}
+SLIDES 1-23 & 29 byte-identical to original
