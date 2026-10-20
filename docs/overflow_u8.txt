@@ -1,0 +1,66 @@
+
+===== slide24.xml =====
+  OK   sz=24pt box=9.50x0.45in need=0.41in lines=1 bottom=0.61in :: 06 / CHALLENGES IDENTIFICATION
+  OK   sz=29pt box=12.33x0.60in need=0.49in lines=1 bottom=1.32in :: Four Key Supply Chain Challenges
+  OK   sz=16pt box=12.33x0.55in need=0.54in lines=2 bottom=1.87in :: Structural bottlenecks behind the radar gaps in Flexibi
+  OK   sz=20pt box=5.10x0.42in need=0.34in lines=1 bottom=2.52in :: 01 / E-Commerce Last-Mile
+  OK   sz=18pt box=5.60x2.00in need=1.83in lines=6 bottom=4.55in :: 鈻?Model Mismatch: Suburban stores are built for full-pa
+  OK   sz=20pt box=5.10x0.42in need=0.34in lines=1 bottom=2.52in :: 02 / Long-Haul Maritime Fragility
+  OK   sz=18pt box=5.60x2.00in need=1.52in lines=5 bottom=4.55in :: 鈻?Heavy Ocean Reliance: Production concentrates in dist
+  OK   sz=20pt box=5.10x0.42in need=0.34in lines=1 bottom=4.67in :: 03 / Upstream Push Rigidities
+  OK   sz=18pt box=5.60x2.00in need=1.52in lines=5 bottom=6.70in :: 鈻?Push-Pull Disconnect: Stores use POS 脳 AI pull, but f
+  OK   sz=20pt box=5.10x0.42in need=0.34in lines=1 bottom=4.67in :: 04 / Tier-2/3 & Inflation
+  OK   sz=18pt box=5.60x2.00in need=1.83in lines=6 bottom=6.70in :: 鈻?Audit Complexity: Tracking Tier-2/3 timber origin acr
+  OK   sz=14pt box=2.20x0.34in need=0.24in lines=1 bottom=7.20in :: CORE TAKEAWAY
+  OK   sz=18pt box=10.90x0.44in need=0.30in lines=1 bottom=7.26in :: Suburban DIY pickup and Push production cannot support 
+
+===== slide25.xml =====
+  OK   sz=24pt box=9.50x0.45in need=0.41in lines=1 bottom=0.61in :: 06 / STRATEGIC RECOMMENDATIONS (PART 1)
+  OK   sz=29pt box=12.33x0.60in need=0.49in lines=1 bottom=1.32in :: Upgrading Omnichannel Fulfillment & Supply Flexibility
+  OK   sz=16pt box=12.33x0.55in need=0.27in lines=1 bottom=1.87in :: Addressing last-mile delivery bottlenecks and rigid ups
+  OK   sz=20pt box=5.20x0.42in need=0.34in lines=1 bottom=2.52in :: 01 / Urban Micro-Fulfillment
+  OK   sz=18pt box=5.60x0.62in need=0.61in lines=2 bottom=3.12in :: [Planning Studio] > [Urban MFC] > [EV Delivery]
+  OK   sz=18pt box=5.60x1.70in need=1.52in lines=5 bottom=4.80in :: 鈻?Automated Parcel Picking: Deploy urban MFCs to handle
+  OK   sz=20pt box=5.20x0.42in need=0.34in lines=1 bottom=2.52in :: 02 / Hybrid Push-Pull
+  OK   sz=18pt box=5.60x2.70in need=2.44in lines=8 bottom=5.80in :: 鈻?Upstream Mass Push: Keep scale production for standar
+  OK   sz=14pt box=2.20x0.34in need=0.24in lines=1 bottom=7.20in :: CORE TAKEAWAY
+  OK   sz=18pt box=10.90x0.40in need=0.30in lines=1 bottom=7.24in :: Urban micro-warehouses plus modular postponement bridge
+
+===== slide26.xml =====
+  OK   sz=24pt box=9.50x0.45in need=0.41in lines=1 bottom=0.61in :: 06 / STRATEGIC RECOMMENDATIONS (PART 2)
+  OK   sz=29pt box=12.33x0.60in need=0.49in lines=1 bottom=1.32in :: Building Supply Chain Resilience & Circular Compliance
+  OK   sz=16pt box=12.33x0.55in need=0.27in lines=1 bottom=1.87in :: Hedging against ocean shipping disruptions, raw materia
+  OK   sz=20pt box=5.20x0.42in need=0.34in lines=1 bottom=2.52in :: 03 / Dual-Sourcing & Nearshoring
+  OK   sz=18pt box=5.60x2.70in need=2.44in lines=8 bottom=5.25in :: 鈻?70% Global Base Hubs: Keep stable products in major h
+  OK   sz=20pt box=5.20x0.42in need=0.34in lines=1 bottom=2.52in :: 04 / Circular Buy-Back & Tracking
+  OK   sz=18pt box=5.60x2.70in need=2.44in lines=8 bottom=5.25in :: 鈻?Scale Circular Loops: Expand Buy Back & Resell to rec
+  OK   sz=14pt box=2.20x0.34in need=0.24in lines=1 bottom=7.20in :: CORE TAKEAWAY
+  OK   sz=18pt box=10.90x0.40in need=0.30in lines=1 bottom=7.24in :: Dual-track sourcing secures continuity; circular recove
+
+===== slide27.xml =====
+  OK   sz=24pt box=9.50x0.45in need=0.41in lines=1 bottom=0.61in :: 06 / IMPLEMENTATION ROADMAP
+  OK   sz=29pt box=12.33x0.60in need=0.49in lines=1 bottom=1.32in :: Phased Implementation Roadmap & Radar Gap Closure
+  OK   sz=16pt box=12.33x0.55in need=0.27in lines=1 bottom=1.87in :: How the four recommendations close the performance gaps
+  OK   sz=20pt box=2.90x0.40in need=0.34in lines=1 bottom=2.35in :: Responsiveness 鈫?  OK   sz=18pt box=2.90x0.62in need=0.61in lines=2 bottom=2.97in :: Urban MFCs + EV fleets
+  OK   sz=20pt box=2.90x0.40in need=0.34in lines=1 bottom=2.35in :: Flexibility 鈫?  OK   sz=18pt box=2.90x0.62in need=0.61in lines=2 bottom=2.97in :: Push-Pull postponement
+  OK   sz=20pt box=2.90x0.40in need=0.34in lines=1 bottom=2.35in :: Resilience 鈫?  OK   sz=18pt box=2.90x0.62in need=0.30in lines=1 bottom=2.97in :: 70/30 dual-sourcing
+  OK   sz=20pt box=2.90x0.40in need=0.34in lines=1 bottom=2.35in :: Sustainability 鈫?  OK   sz=18pt box=2.90x0.62in need=0.61in lines=2 bottom=2.97in :: Buy-back + Tier-2/3 tracking
+  OK   sz=20pt box=3.50x0.42in need=0.34in lines=1 bottom=3.77in :: Phase 1 Short-Term
+  OK   sz=18pt box=3.50x0.42in need=0.30in lines=1 bottom=4.22in :: Quick Wins in Fulfillment
+  OK   sz=18pt box=3.50x1.75in need=1.22in lines=4 bottom=6.00in :: Pilot urban MFCs and EV fleets in major metros; unify s
+  OK   sz=20pt box=3.50x0.42in need=0.34in lines=1 bottom=3.77in :: Phase 2 Mid-Term
+  OK   sz=18pt box=3.50x0.42in need=0.30in lines=1 bottom=4.22in :: Structural Agility
+  OK   sz=18pt box=3.50x1.75in need=1.22in lines=4 bottom=6.00in :: Roll out modular postponement for seasonal lines; build
+  OK   sz=20pt box=3.50x0.42in need=0.34in lines=1 bottom=3.77in :: Phase 3 Long-Term
+  OK   sz=18pt box=3.50x0.42in need=0.30in lines=1 bottom=4.22in :: Closed-Loop Ecosystem
+  OK   sz=18pt box=3.50x1.75in need=1.22in lines=4 bottom=6.00in :: Scale buy-back and timber recycling; reach 100% traceab
+
+===== slide28.xml =====
+  OK   sz=24pt box=9.50x0.45in need=0.41in lines=1 bottom=0.61in :: 06 / CONCLUSION & SUMMARY
+  OK   sz=25pt box=12.33x0.90in need=0.42in lines=1 bottom=1.62in :: Conclusion: Balancing Efficiency, Agility and Resilienc
+  OK   sz=16pt box=12.33x0.55in need=0.27in lines=1 bottom=2.21in :: Key takeaways from IKEA's supply chain model and compet
+  OK   sz=22pt box=6.70x0.50in need=0.37in lines=1 bottom=2.70in :: Core Takeaway
+  OK   sz=18pt box=6.70x3.90in need=1.83in lines=6 bottom=6.80in :: IKEA's enduring success lies in integrating supply chai
+  OK   sz=18pt box=6.70x1.75in need=1.22in lines=4 bottom=7.05in :: Facing e-commerce shifts, ocean disruptions and ESG scr
+
+(鐗堥潰涓嬭竟鐣屽弬鑰? 7.50in, CORE TAKEAWAY 鏉＄害鍦?6.66in)
