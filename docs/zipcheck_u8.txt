@@ -1,0 +1,10 @@
+zip files: 293  src files: 293
+no missing files
+no extra files
+ALL FILE CONTENTS IDENTICAL
+[Content_Types].xml: 24135B
+ppt/presentation.xml: 6595B
+ppt/slides/slide24.xml: 19220B
+ppt/slides/slide28.xml: 8257B
+ppt/media/image46.png: 112949B
+ppt/media/image50.png: 85779B
